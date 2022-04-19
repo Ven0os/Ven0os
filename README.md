@@ -1,6 +1,4 @@
-# Titre du projet
-
-_(juste en dessous des badges sympatiques à placer)_
+# Bienvenue sur mon profil 📢
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)](http://forthebadge.com)
 
