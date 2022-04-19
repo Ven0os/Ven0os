@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Théo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Titre du projet
 
-<!---
-Ven0os/Ven0os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+_(juste en dessous des badges sympatiques à placer)_
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)](http://forthebadge.com)
+
+Voici mon profil !
+
+## Pour commencer
+
+Je m'appelle Théo j'ai 19 et je débute dans le développement informatique
+
+### Quelque de mes projets
+
+Mes projets les plus complexes
+
+- Bot avec Node.JS
+- Début avec Angular 13
+
+## The End
+
+C'est la fin !
