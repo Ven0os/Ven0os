@@ -8,7 +8,7 @@ Voici mon profil !
 
 Je m'appelle Théo j'ai 19 et je débute dans le développement informatique
 
-### Quelque de mes projets
+### Quelques de mes projets :
 
 Mes projets les plus complexes
 
